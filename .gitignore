@@ -29,3 +29,4 @@ msbuild.err
 msbuild.wrn
 
 **/*.db
+appsettings.json
